@@ -9,15 +9,52 @@ h1 {
 
 .top-banner {
     display: flex;
-    margin-top: 200px;
+    margin-top: 150px;
+    background-image: ;
+}
+
+.banner {
+    background-image: url(images/shapes/Frame_58_.png);
+    background-repeat: no-repeat;
 }
 
 .half-width {
     width: 40%;
     padding-left: 7%;
-
 }
 
 .half-width img {
     width: 100%;
+}
+
+.orange {
+    background: -webkit-linear-gradient(#FBA24F, #ff1e1e);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.grey {
+    color: rgb(34, 34, 34);
+}
+
+.button {
+    text-decoration: none;
+    background-color: #fa6400;
+    background-image: linear-gradient(#e2903f, #ff1e1e);
+    border-radius: 30px;
+    padding: 20px 40px;
+    color: white;
+    font-weight: 700;
+}
+
+.new-text {
+    width: 50%;
+    padding-left: 50%;
+    padding-right: 15%;
+    padding-bottom: 50%;
+    line-height: 25px;
+}
+
+h2 {
+    font-size: 35px;
 }
