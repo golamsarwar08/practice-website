@@ -14,6 +14,8 @@ h1 {
 
 .banner {
     background-image: url(images/shapes/Frame_58_.png);
+    width: 1440px;
+    height: 600px;
     background-repeat: no-repeat;
 }
 
